@@ -1,11 +1,11 @@
 # Site settings
 author: Jonathan Bleibdrey
-title: 
+title: Why I Want to Be a Software Engineer?
 header-img: img/home-bg.png
 email: jonbleibdrey@aol.com
 copyright_name: Jonathan Bleibdrey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  why my only mission is to add value to the world
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jonbleibdrey
